@@ -1,0 +1,21 @@
+.youtubeVideosWrapper{
+    background: #fff;
+    padding: 50px;
+}
+.title-wraper{
+    margin-bottom: 20px;
+}
+.singleVideoWrapper{
+    margin-bottom: 30px;
+    max-height: 390px;
+    overflow: hidden;
+    background: #f3f2f2;
+}
+.videoInfoWrapper{
+    padding: 10px 20px;
+    text-align: center;
+}
+.videoDesc{
+    font-size: .6em;
+    color: #676767;
+}
